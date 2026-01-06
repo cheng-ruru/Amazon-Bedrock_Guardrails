@@ -200,7 +200,7 @@ Requests asking for guaranteed outcomes or zero-risk promises
 
 ## Step 8：檢閱和建立
 
-### 最後檢查清單（Demo 前一定要確認）
+### 最後檢查清單
 
 - Guardrail 名稱正確
 - Content filters 已啟用（Harassment / Hate）
